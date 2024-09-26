@@ -1,0 +1,8 @@
+D:\codes\code depth\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe.config
+D:\codes\code depth\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe
+D:\codes\code depth\ContactsApp\ContactsApp\bin\Debug\ContactsApp.pdb
+D:\codes\code depth\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.AssemblyReference.cache
+D:\codes\code depth\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.SuggestedBindingRedirects.cache
+D:\codes\code depth\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.CoreCompileInputs.cache
+D:\codes\code depth\ContactsApp\ContactsApp\obj\Debug\ContactsApp.exe
+D:\codes\code depth\ContactsApp\ContactsApp\obj\Debug\ContactsApp.pdb
